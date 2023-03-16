@@ -1,1 +1,1 @@
-document.getElementById("p2").style.color = "blue";
+document.body.style.backgroundColor = "purple";
