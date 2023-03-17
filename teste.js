@@ -1,1 +1,1 @@
-document.body.style.backgroundColor = "purple";
+<script>alert(1)</script>
